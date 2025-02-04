@@ -29,7 +29,7 @@ I’m looking to collaborate on:
 
 ## 📫 Reach Me
 - Email: [amit.sharma@merillife.com](mailto:amit.sharma@merillife.com)
-- LinkedIn: [Amit Sharma](www.linkedin.com/in/eramitsharma)
+- LinkedIn: [Amit Sharma](https://www.linkedin.com/in/eramitsharma/)
 
 ## 😄 Pronouns
 He/Him
