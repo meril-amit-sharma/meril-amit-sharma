@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 👋 About Me
-Hi, I’m @meril-amit-sharma, a passionate software developer dedicated to building scalable and efficient solutions. I have a keen eye for detail and love simplifying complex problems with clean and effective code.
+Hi, I’m Amit Sharma, a passionate software developer dedicated to building scalable and efficient solutions. I have a keen eye for detail and love simplifying complex problems with clean and effective code.
 
 ## 👀 Interests
 - Full-stack development (Laravel, Node.js, React)
@@ -28,8 +28,8 @@ I’m looking to collaborate on:
 - Enhancing accessibility in modern web applications
 
 ## 📫 Reach Me
-- Email: [amit.sharma@example.com](mailto:amit.sharma@example.com)
-- LinkedIn: [Amit Sharma](https://linkedin.com/in/amit-sharma)
+- Email: [amit.sharma@merillife.com](mailto:amit.sharma@merillife.com)
+- LinkedIn: [Amit Sharma](https://linkedin.com/in/er-amit-sharma)
 
 ## 😄 Pronouns
 He/Him
